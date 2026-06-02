@@ -1,8 +1,9 @@
 // comentario
 // otro comentario
 
-function login() {
+function nuevologin() {
 
+  // nuevo
 
     gps
   // modificado
@@ -12,4 +13,6 @@ function login() {
 function camera(){
     // modificado
     // bug fixed
+
+    cambio
 }
