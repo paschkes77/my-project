@@ -8,3 +8,7 @@ function login() {
   // modificado
 
 }
+
+function camera(){
+    
+}
