@@ -13,7 +13,6 @@ function nuevologin() {
 function camera(){
     // modificado
     // bug fixed
-
     cambio
     bug arreglado
 }
