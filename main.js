@@ -15,4 +15,5 @@ function camera(){
     // bug fixed
 
     cambio
+    bug arreglado
 }
