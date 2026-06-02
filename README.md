@@ -7,3 +7,5 @@ Intro.......
 ## gggggg
 
 Test de otro párrafo.
+
+Se añade la funcionalidad de la camara.
