@@ -10,5 +10,5 @@ function login() {
 }
 
 function camera(){
-    
+    // modificado
 }
