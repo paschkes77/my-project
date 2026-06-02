@@ -11,4 +11,5 @@ function login() {
 
 function camera(){
     // modificado
+    // bug fixed
 }
