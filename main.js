@@ -14,5 +14,5 @@ function camera(){
     // modificado
     // bug fixed
     cambio
-    bug arreglado
+    bug arreglado2222
 }
